@@ -1,0 +1,24 @@
+{
+    "label":"PGM",
+    "icontop":"../_theme/ic-pgm.png",
+    "icon":"",
+    "background":"../_theme/bg-pgm.png",
+    "themecolor":"FAF792",
+    "launch":"default.sh",
+    "rompath":"../../Roms/PGM",
+    "imgpath":"../../Imgs/FBNEO",
+    "useswap":1,
+    "shortname":1,
+    "hidebios":1,
+    "extlist":"zip",
+    "launchlist": [
+        {
+            "name": "FBA2012 Auto",
+            "launch": "launch.sh"
+        },
+        {
+            "name": "FBNEO",
+            "launch": "launch_fbneo.sh"
+        }
+    ]
+}

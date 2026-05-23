@@ -35,6 +35,8 @@ Compatibility with modified stock environments may vary.
 
 After rebooting, the Core Selector shortcut should be available inside the launcher.
 
+Note: If you don't want to update the RetroArch cores just don't copy the /RetroArch folder. This will cause cores to appear in the core selector list but when select it will crash the loader.
+
 ---
 
 ## Usage

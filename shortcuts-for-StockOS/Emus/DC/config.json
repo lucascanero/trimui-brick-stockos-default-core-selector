@@ -1,0 +1,14 @@
+{
+"label":"DC",
+"icontop":"../_theme/ic-dc.png",
+"icon":"",
+"effectsh":"effect.sh",
+"background":"../_theme/bg-dc.png",
+"themecolor":"FFFFFF",
+"launch":"default.sh",
+"rompath":"../../Roms/DC",
+"imgpath":"../../Imgs/DC",
+"useswap":1,
+"shortname":0,
+"hidebios":1
+}
