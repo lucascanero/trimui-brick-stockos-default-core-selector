@@ -30,8 +30,9 @@ Compatibility with modified stock environments may vary.
 ## Installation
 
 1. Download the latest release
-2. Extract the files to the root of your SD card
-3. Reboot the device
+2. If you want only the default core shortcut copy all files inside: "shortcuts-for-StockOS" to the SDCARD root. If you also want more RetroArch cores, updates and icons copy all files inside: "shortcuts+updated-cores+icons+backgrounds-for-stockOS"
+3. Copy the selected folder to the root of your SD card
+4. Reboot the device
 
 After rebooting, the Core Selector shortcut should be available inside the launcher.
 
